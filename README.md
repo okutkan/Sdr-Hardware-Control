@@ -1,3 +1,4 @@
+
 # Sdr-Hardware-Control
 This project includes an Arduino sketch and circuit diagram to control popular SDR windows program SDR#.
 If you ever wanted to control your software defined radio with physical controls like the classical hardware radios this project tries to show you how to do it. 
@@ -23,14 +24,17 @@ TBA
 ## Required Hardware
 
 You'll need the hardware below to run this program to control SDRSharp.
-
+Disclaimer: Links provided are affiliate links. If you want to purchase without affiliate links please google product name.
 ### Wemos D1 Mini
 (TODO:Add product links and description)
-
+https://www.banggood.com/WeMos-D1-mini-V2_2_0-WIFI-Internet-Development-Board-Based-ESP8266-4MB-FLASH-ESP-12S-Chip-p-1143874.html?p=EM041788509502017028
 ### Rotary Encoder
 (TODO:Add product links and description)
-### 0.96" Oled Screen
+https://www.banggood.com/5Pcs-5V-KY-040-Rotary-Encoder-Module-For-Arduino-AVR-PIC-p-951151.html?p=EM041788509502017028
+### 0.96" Oled Screen (Optional)
 (TODO:Add product links and description)
+https://www.banggood.com/1_3-Inch-4Pin-White-OLED-LCD-Display-12864-IIC-I2C-Interface-Module-For-Arduino-p-1067874.html?p=EM041788509502017028
+
 
 ## Deployment
 
